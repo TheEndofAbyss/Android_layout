@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:text="One,One" />
+
+        <Button
+            android:layout_width="142dp"
+            android:layout_height="wrap_content"
+            android:text="One,Two" />
+
+        <Button
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:text="One,Three"
+            android:textSize="10sp"/>
+
+        <Button
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:text="One,Four" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:text="Two,One" />
+
+        <Button
+            android:layout_width="142dp"
+            android:layout_height="wrap_content"
+            android:text="Two,Two" />
+
+        <Button
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:text="Two,Three"
+            android:textSize="10sp"/>
+
+        <Button
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:text="Two,Four"
+            android:textSize="10sp"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="103dp"
+            android:layout_height="wrap_content"
+            android:text="Three,One" />
+
+        <Button
+            android:layout_width="103dp"
+            android:layout_height="wrap_content"
+            android:text="Three,Two" />
+
+        <Button
+            android:layout_width="103dp"
+            android:layout_height="wrap_content"
+            android:text="Three,Three"
+            android:textSize="10sp"/>
+
+        <Button
+            android:layout_width="103dp"
+            android:layout_height="wrap_content"
+            android:text="Three,Four"
+            android:textSize="10sp"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="wrap_content"
+            android:text="Four,One" />
+
+        <Button
+            android:layout_width="127dp"
+            android:layout_height="wrap_content"
+            android:text="Four,Two" />
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="wrap_content"
+            android:text="Four,Three"
+            android:textSize="10sp"/>
+
+        <Button
+            android:layout_width="95dp"
+            android:layout_height="wrap_content"
+            android:text="Four,Four"
+            android:textSize="10sp"/>
+    </LinearLayout>
+
+</LinearLayout>
